@@ -1,0 +1,20 @@
+GIT
+  remote: git@github.com:szymon33/crc32.git
+  revision: 334eec14b475144e49bc27b7ade348c243e7a7be
+  branch: master
+  tag: 0.0.1
+  specs:
+    crc32 (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  crc32!
+
+BUNDLED WITH
+   1.11.2
